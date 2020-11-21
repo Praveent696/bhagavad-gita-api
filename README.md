@@ -42,7 +42,7 @@ Bhagavad-Gita-API is A lightweight Node.js based Bhagavad Gita API server
 
 4. to get All Chapters details
 
-- **Endpoint** `https://vedicscripturesapi.herokuapp.com/chapters`
+- **Endpoint** `https://vedicscripturesapi.herokuapp.com/gita/chapters`
 
 5. to get Particular single Chapters details
 
