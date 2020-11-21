@@ -46,7 +46,7 @@ Bhagavad-Gita-API is A lightweight Node.js based Bhagavad Gita API server
 
 5. to get Particular single Chapters details
 
-- **Endpoint** `https://vedicscripturesapi.herokuapp.com/gita{/cp}`
+- **Endpoint** `https://vedicscripturesapi.herokuapp.com/gita{/:cp}`
 
 *:ch - chapter number*
 
@@ -70,7 +70,7 @@ Bhagavad-Gita-API is A lightweight Node.js based Bhagavad Gita API server
 ```
 
 6. to get particular verse of a chapter
-- **Endpoint** `https://vedicscripturesapi.herokuapp.com/gita{/cp}`
+- **Endpoint** `https://vedicscripturesapi.herokuapp.com/gita{/:cp/:vr}`
 
 *:ch - Adhyay(chapter) number*
 *:vr - Slok(verse) number*
